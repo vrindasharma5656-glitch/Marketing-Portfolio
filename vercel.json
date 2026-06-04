@@ -1,4 +1,0 @@
-{
-  "framework": "nextjs",
-  "buildCommand": "TypeScript_IGNORE_BUILD_ERRORS=true eslint_IGNORE_DURING_BUILDS=true next build"
-}
